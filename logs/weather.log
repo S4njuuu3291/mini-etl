@@ -1,0 +1,12 @@
+2025-10-27 19:24:03,951 | INFO | Extracting data from url..
+2025-10-27 19:24:05,302 | INFO | Extracting successful..
+2025-10-27 19:24:05,305 | INFO | Transforming data..
+2025-10-27 19:24:05,305 | INFO | Load data to database..
+2025-10-27 19:24:05,481 | INFO | Load success..
+
+2025-10-27 19:27:39,794 | INFO | Extracting data from url..
+2025-10-27 19:27:41,140 | INFO | Extracting successful..
+2025-10-27 19:27:41,142 | INFO | Transforming data..
+2025-10-27 19:27:41,142 | INFO | Load data to database..
+2025-10-27 19:27:41,187 | INFO | Load success..
+
